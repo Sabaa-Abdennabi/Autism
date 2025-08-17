@@ -10,7 +10,7 @@ Machine learning project to classify **Autism Spectrum Disorder (ASD)** using su
 - Hyperparameter tuning (GridSearchCV)  
 - Evaluation: accuracy, confusion matrix, classification report  
 
-## 📂 Usage  
+##  Usage  
 ```sh
 # Create venv & install deps
 python -m venv venv
@@ -25,6 +25,6 @@ Run the notebook: **Autism.ipynb**
 * Best model → `best_model.pkl`
 * Metrics shown in notebook
 
-## 📦 Requirements
+## Requirements
 
 Python 3.8+, scikit-learn, xgboost, imbalanced-learn, pandas, numpy, matplotlib, seaborn, joblib
